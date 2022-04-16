@@ -1,3 +1,6 @@
-const test: string = 'TEST'
-
-console.log(test);
+// const datatype = require('./datatype')
+// const _enum = require('./enum')
+// const _interface = require('./interface')
+// const _function = require('./function')
+// const _class = require('./generics')
+const advance = require('./advance3')
